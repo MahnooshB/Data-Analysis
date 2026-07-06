@@ -19,9 +19,8 @@ Imported the dataset into Power BI and created an interactive dashboard to analy
 📊 Customer-wise Sales and Profit
 
 📈 Key Business Metrics Identified
-Total Sales: 89M
-Total Cost: 40M
-Total Profit: 49M
+Total Sales: 79M
+Total Profit: 44M
 
 
 
